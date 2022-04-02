@@ -1,5 +1,5 @@
 import React from 'react'
-import WavePortal from 'components/WavePortal'
+import WavePortal from '../src/components/WavePortal'
 
 export default function Home() {
   return (
